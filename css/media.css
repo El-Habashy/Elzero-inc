@@ -1,0 +1,63 @@
+@media(max-width:767px)
+{
+    .navbar-inverse .navbar-nav > li > a
+    {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    
+    .subscribe .form-control
+    {
+        margin:20px auto;
+    }
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse 
+    {
+        max-height: none;
+    }
+    .becenter
+    {
+        text-align: center;
+    }
+    .becenter .img-thumbnail
+    {
+        width: 125px;
+        height: 110px;
+        margin-left: 3px;
+    }
+    .testimonials .carousel-indicators li,
+    .testimonials .carousel-indicators li.active
+    {
+          width: 55px;
+          height: 55px;
+    }
+    .testimonials .lead 
+    {
+        line-height: 1.5em;
+    }
+    .testimonials h1 
+    {
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    
+}
+@media(min-width:768px) and (max-width:991px)
+{
+    
+}
+@media(min-width:992px) and (max-width:1199px)
+{
+   
+}
+@media(min-width:1200px )
+{
+    .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img 
+    {
+          background-size: cover;
+          width: 100%;
+    }
+    .btn-lg, .btn-group-lg > .btn 
+    {
+        padding: 8px 9px;
+    }
+}

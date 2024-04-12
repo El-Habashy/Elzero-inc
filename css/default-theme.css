@@ -1,0 +1,33 @@
+/**** start deafult them****/
+.option-box .color-option,
+.testimonials  .carousel-indicators li.active
+{
+    border: 4px solid #8216E7;
+}
+.option-box .gear-check,
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, 
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active
+{
+    background: #8216E7;
+}
+
+.dropdown-menu 
+{
+    border-top: 3px solid #8216E7;
+}
+
+.about h1 span,
+.testimonials h3,
+.navbar .navbar-brand span 
+{
+    color: #8216E7;
+}
+.footer h3,
+.footer .copywrite span
+{
+     color:#8216E7; 
+}
+
+/**** end deafult them****/
